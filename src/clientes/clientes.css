@@ -1,0 +1,18 @@
+
+body{
+    margin: 0%;
+    background-color: lightblue;
+    color: whitesmoke;
+    text-align: flex;
+    font-size: 25px;
+}
+#container{
+    color: blue;
+    text-align: center;
+    font-size: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

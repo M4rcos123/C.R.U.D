@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    background-image: url(../../imagem/menu.webp);
+    color: rgb(85, 26, 139);
+    text-align: center;
+}
+#container{
+    color: gold;
+    text-align: center;
+    font-size: 38px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
